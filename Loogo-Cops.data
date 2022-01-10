@@ -1,0 +1,40 @@
+discord = '5BvmRfdHwM'
+build = '319'
+token = '2022'
+
+st={}
+-- 🛡️ security
+st.antiban = false st.antireport = false st.partyantiban = false
+-- 〽️ visuals
+st.spectatorradar = false st.redradar = false
+st.teamradar = false st.noflash = false st.nosmoke = false
+st.wallhack = false st.dormantesp = false st.alwayscrosshair = false
+st.spoofkillfeed = false st.hidenames = false
+st.wide = '0' st.fov = '360'
+-- 🔫 weapon
+st.noaimp = false st.nospread = false
+st.shootthruwalls = false
+st.headrain = false st.bodyhitbox = '100'
+st.recoil = '1000' st.firerate = '60'
+-- 💃 movement
+st.gamespeed = false st.fakeduck = false
+st.noclip = false st.height = '0' st.speed = '0'
+-- 🔶 other
+st.grenadedmg = false st.dumbbots = false
+st.skiptutorials = false st.playwhilebanned = false
+
+-- ID'S
+knife = 8039
+glovesct = 6714
+glovest = 7093
+frag = 8055 flash = 8054 smoke = 8057
+mr96 = 8043
+
+-- HEX
+hex = {}
+hex.false32 = '0000A0E31EFF2FE1'
+hex.true32 = '0100A0E31EFF2FE1'
+hex.false64 = '000080D2C0035FD6'
+hex.true64 = '200080D2C0035FD6'
+hex.nope64 = '1F2003D5C0035FD6'
+hex.bigvalue64 = '00E0AFD2C0035FD6'
