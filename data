@@ -32,9 +32,9 @@ mr96 = 8043
 
 -- HEX
 hex = {}
-hex.false32 = '0000A0E31EFF2FE1'
-hex.true32 = '0100A0E31EFF2FE1'
-hex.false64 = '000080D2C0035FD6'
-hex.true64 = '200080D2C0035FD6'
-hex.nop64 = '1F2003D5C0035FD6'
-hex.bigvalue64 = '00E0AFD2C0035FD6'
+hex.false32 = 'h0000A0E31EFF2FE1'
+hex.true32 = 'h0100A0E31EFF2FE1'
+hex.false64 = 'h000080D2C0035FD6'
+hex.true64 = 'h200080D2C0035FD6'
+hex.nop64 = 'h1F2003D5C0035FD6'
+hex.bigvalue64 = 'h00E0AFD2C0035FD6'
