@@ -19,6 +19,7 @@ st.recoil = '1000' st.firerate = '60'
 -- 💃 movement
 st.gamespeed = false st.fakeduck = false
 st.noclip = false st.height = '0' st.speed = '0'
+st.speed2 = '0'
 -- 🔶 other
 st.grenadedmg = false st.dumbbots = false
 st.skiptutorials = false st.playwhilebanned = false
