@@ -13,7 +13,7 @@ st.spoofkillfeed = false st.hidenames = false
 st.wide = '0' st.fov = '360'
 -- 🔫 weapon
 st.noaimp = false st.nospread = false
-st.shootthruwalls = false
+st.wallshot = false
 st.headrain = false st.bodyhitbox = '100'
 st.recoil = '1000' st.firerate = '60'
 -- 💃 movement
