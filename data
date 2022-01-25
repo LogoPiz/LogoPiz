@@ -6,7 +6,7 @@ st={}
 -- 🛡️ security
 st.antiban = false st.antireport = false st.partyantiban = false
 -- 〽️ visuals
-st.spectatorradar = false st.redradar = false
+st.espradar = false st.redradar = false
 st.teamradar = false st.noflash = false st.nosmoke = false
 st.wallhack = false st.dormantesp = false st.alwayscrosshair = false
 st.spoofkillfeed = false st.hidenames = false
@@ -14,7 +14,7 @@ st.wide = '0' st.fov = '360'
 -- 🔫 weapon
 st.noaimp = false st.nospread = false
 st.wallshot = false
-st.headrain = false st.bodyhitbox = '100'
+st.headhitbox = '0' st.bodyhitbox = '0'
 st.recoil = '1000' st.firerate = '60'
 -- 💃 movement
 st.gamespeed = false st.fakeduck = false
