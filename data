@@ -25,7 +25,7 @@ st.grenadedmg = false st.dumbbots = false
 st.skiptutorials = false st.playwhilebanned = false
 
 -- ID'S
-knife = 8039
+knife={} knife[1],knife[2],knife[3]=5952,6109,6025
 glovesct = 6714
 glovest = 7093
 frag = 8055 flash = 8054 smoke = 8057
