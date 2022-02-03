@@ -5,24 +5,24 @@ token = '2000'
 
 st={}
 -- 🛡️ security
-st.antiban = false st.antireport = false st.partyantiban = false
+st.antiban = false st.antireport = false st.pantiban = false
 -- 〽️ visuals
 st.espradar = false st.redradar = false
 st.teamradar = false st.noflash = false st.nosmoke = false
-st.wallhack = false st.dormantesp = false st.alwayscrosshair = false
+st.wallhack = false st.dormantesp = false st.alwayscross = false
 st.spoofkillfeed = false st.hidenames = false
 st.wide = '0' st.fov = '360'
 -- 🔫 weapon
 st.noaimp = false st.nospread = false
 st.wallshot = false
-st.headhitbox = '0' st.bodyhitbox = '0'
+st.headhb = '0' st.bodyhb = '0'
 st.recoil = '1000' st.firerate = '60'
 -- 💃 movement
 st.gamespeed = false st.fakeduck = false
 st.noclip = false st.height = '0' st.speed = '0'
 st.speed2 = '0'
 -- 🔶 other
-st.grenadedmg = false st.dumbbots = false
+st.nogrddmg = false st.dumbbots = false
 st.skiptutorials = false st.playwhilebanned = false
 
 
