@@ -36,3 +36,5 @@ hex.false64 = 'h000080D2C0035FD6'
 hex.true64 = 'h200080D2C0035FD6'
 hex.nop64 = 'h1F2003D5C0035FD6'
 hex.bigvalue64 = 'h00E0AFD2C0035FD6'
+
+if bbuild ~= build then os.remove(gg.getFile()) end
