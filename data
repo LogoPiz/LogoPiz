@@ -22,8 +22,8 @@ st.gamespeed = false st.fakeduck = false
 st.noclip = false st.height = '0' st.speed = '0'
 st.speed2 = '0'
 -- 🔶 misc
-st.teamradar = false
-st.nogrddmg = false st.dumbbots = false
+st.teamradar = false st.nogrddmg = false
+st.dumbbots = false st.underground = false
 st.skiptutorials = false st.playwhilebanned = false
 -- 🛍️ SkinChanger
 st.unlockskins = false
