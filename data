@@ -25,7 +25,8 @@ st.speed2 = '0'
 st.teamradar = false
 st.nogrddmg = false st.dumbbots = false
 st.skiptutorials = false st.playwhilebanned = false
-
+-- 🛍️ SkinChanger
+st.unlockskins = false
 
 
 -- HEX
