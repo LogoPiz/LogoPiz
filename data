@@ -11,12 +11,12 @@ st.espradar = false st.redradar = false
 st.noflash = false st.nosmoke = false
 st.wallhack = false st.dormantesp = false st.alwayscross = false
 st.spoofkillfeed = false st.hidenames = false
-st.wide = '0' st.fov = '360'
+st.wide = '0' st.fov = '90'
 -- 🔫 weapon
 st.noaimp = false st.nospread = false
 st.wallshot = false
 st.headhb = '0' st.bodyhb = '0'
-st.recoil = '1000' st.firerate = '60'
+st.recoil = '100' st.firerate = '60'
 -- 💃 movement
 st.gamespeed = false st.fakeduck = false
 st.noclip = false st.height = '0' st.speed = '0'
