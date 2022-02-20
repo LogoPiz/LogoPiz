@@ -5,7 +5,7 @@ token = '2000'
 
 st={}
 -- 🛡️ security
-st.antiban = false st.antireport = false st.pantiban = false
+st.antiban = false st.pantiban = false
 -- 〽️ visuals
 st.espradar = false st.redradar = false
 st.noflash = false st.nosmoke = false
